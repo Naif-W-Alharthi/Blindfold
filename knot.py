@@ -4,6 +4,8 @@ import winreg as reg
 
 try:
     python_exe = sys.executable
+
+    #I don't want to add a for loop but I might soon
     key_path = r"SystemFileAssociations\.png\shell\Blindfold"
 
     # Create the registry entry for the context menu
