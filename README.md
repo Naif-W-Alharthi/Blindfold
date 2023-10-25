@@ -7,8 +7,8 @@ A windows python right click that prefroms a Anti-AI adverisal attack that keeps
 
 ## Usage
 
-1)Right click an image (must be PNG)__ 
-2)Select blindfold__
+1)Right click an image (must be PNG)<br />
+2)Select blindfold<br />
 3)Provides coded image of changes
 
 
