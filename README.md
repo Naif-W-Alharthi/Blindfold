@@ -1,10 +1,9 @@
 ## Blindfold
-A windows python right click that prefroms a Anti-AI adverisal attack that keeps the image the same for human users
+A windows python right click that prefroms a Anti-AI adverisal attack that keeps the image quality for humans but affects AI training.
 
 ## Installation
-1)Download curr 
-2)Run [Knot.py](https://github.com/Naif-W-Alharthi/Blindfold/blob/main/current_live_build/knot.exe) as admin
-
+1)Download [The installation file](https://github.com/Naif-W-Alharthi/Blindfold/tree/main/current_live_build) <br />
+2)Run Knot.py as admin
 
 
 ## Usage
@@ -16,10 +15,7 @@ A windows python right click that prefroms a Anti-AI adverisal attack that keeps
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+This project is a personal project but will be open to pull requests and contributions. 
 
 ## License
 
