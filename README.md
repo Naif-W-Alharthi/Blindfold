@@ -2,7 +2,9 @@
 A windows python right click that prefroms a Anti-AI adverisal attack that keeps the image the same for human users
 
 ## Installation
-1)Run [Knot.py](https://github.com/Naif-W-Alharthi/Blindfold/blob/main/current_live_build/knot.exe) as admin
+1)Download curr 
+2)Run [Knot.py](https://github.com/Naif-W-Alharthi/Blindfold/blob/main/current_live_build/knot.exe) as admin
+
 
 
 ## Usage
