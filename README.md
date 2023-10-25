@@ -2,7 +2,7 @@
 A windows python right click that prefroms a Anti-AI adverisal attack that keeps the image quality for humans but affects AI training.
 
 ## Installation
-1)Download [The installation file](https://github.com/Naif-W-Alharthi/Blindfold/tree/main/current_live_build) <br />
+1)Download [The installation file](https://github.com/Naif-W-Alharthi/Blindfold/tree/main/current_live_build)  <br />
 2)Run Knot.py as admin
 
 
