@@ -11,7 +11,7 @@ A windows python right click that prefroms a Anti-AI adverisal attack that keeps
 1)Right click an image (must be PNG)<br />
 2)Select blindfold<br />
 3)Provides coded image of changes
-
+<video src='https://github.com/Naif-W-Alharthi/Blindfold/blob/main/video_display.mkv' width=180/>
 
 ## Contributing
 
