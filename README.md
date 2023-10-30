@@ -12,7 +12,7 @@ A windows python right click that prefroms a Anti-AI adverisal attack that keeps
 2)Select blindfold<br />
 3)Provides coded image of changes
 
-![](https://github.com/Naif-W-Alharthi/Blindfold/tree/main/giftodisplay)
+![](https://github.com/Naif-W-Alharthi/Blindfold/tree/main/giftodisplay.gif)
 
 ## Contributing
 
