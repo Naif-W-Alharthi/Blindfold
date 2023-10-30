@@ -22,7 +22,7 @@ try:
 
     python_exe = system_python_path[:-1]
     # python_exe = sys.executable
-    print(python_exe)
+    
     # print(python_exe)
     #I don't want to add a for loop but I might soon
     key_path = r"SystemFileAssociations\.png\shell\Blindfold"
