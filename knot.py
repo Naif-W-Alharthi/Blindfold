@@ -1,10 +1,29 @@
 import os
-import sys
 import winreg as reg
+import subprocess
+def find_system_python():
+    try:
+
+        output = subprocess.check_output(['where', 'python'], text=True)
+        
+     
+        return output
+    except Exception as e:
+        # Handle exceptions (e.g., FileNotFoundError) if the command fails
+        print("Error:",str(e))
+        return None
+
+# Call the function to find the system Python binary
+system_python_path = find_system_python()
 
 try:
-    python_exe = sys.executable
 
+
+
+    python_exe = system_python_path[:-1]
+    # python_exe = sys.executable
+    print(python_exe)
+    # print(python_exe)
     #I don't want to add a for loop but I might soon
     key_path = r"SystemFileAssociations\.png\shell\Blindfold"
 
@@ -19,3 +38,4 @@ try:
     print("Context menu added successfully.")
 except Exception as e:
     print("Error:", str(e))
+

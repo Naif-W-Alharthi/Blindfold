@@ -13,7 +13,7 @@ import random
 
 input = sys.argv[1] 
 
-
+print(sys.argv)
 def image_eater(image_path):
     ### image_path here is the string path 
     vakes=[]
@@ -26,6 +26,9 @@ def image_eater(image_path):
         """check what Z does"""
         # print(x,y,z)
         temp_= np.zeros([x,y,z])
+        print("Loading image into Blindfold")
+        print("[",end="")
+        
         for rows in range(0,x):
             for cols in range(0,y):
                 for dim in range(0,z):
@@ -61,4 +64,4 @@ def image_eater(image_path):
 #removed check due to the registry just being on pngs
 image_eater(input)
 # C:\Users\pokem\OneDrive\Pictures\goals.png
-
+time.sleep(20)
